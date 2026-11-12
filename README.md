@@ -1,8 +1,4 @@
-<div align="center">
-
-  <img src="assets/icon/frame_logo.png" alt="Frame Logo" width="140" height="140" />
-
-  <h1>Frame</h1>
+<h1>Frame</h1>
 
   <p><b>A modern, offline-first PSD previewer, font manager, and design asset utility built with Flutter for graphic designers.</b></p>
 
