@@ -62,7 +62,7 @@ Whether you are managing local `.psd` files on your device storage or organizing
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/frame.git
+   git clone https://github.com/Puspaaamm/Frame.git
    ```
 2. **Navigate to the project directory:**
    ```bash
