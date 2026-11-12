@@ -1,0 +1,1 @@
+A modern PSD previewer, font manager, and asset utility for graphic designers.
